@@ -9,4 +9,6 @@
     </parent>
 
     <artifactId>k9-lib-shared-models</artifactId>
+
+    <name>[Lib] Shared Models</name>
 </project>
